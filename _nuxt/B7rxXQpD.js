@@ -1,1 +1,0 @@
-function e(e){let{online:t,...n}=e;return n}export{e as t};
